@@ -97,11 +97,13 @@
 ---
 
 <h3 align="left">Holopin Board:</h3>
+
 [![@cham11ng's Holopin board](https://holopin.io/api/user/board?user=cham11ng)](https://holopin.io/@cham11ng)
 
 ---
 
 <h3 align="left">Credly Badges:</h3>
+
 <!--START_SECTION:badges-->
 [![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/abe9c7c8-bd28-4377-8522-87b68344ba5a "ISC2 Candidate")
 [![Introduction to Packet Tracer](https://images.credly.com/size/120x120/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](http://www.credly.com/badges/40643888-3cc5-421d-8395-947d651d215f "Introduction to Packet Tracer")
