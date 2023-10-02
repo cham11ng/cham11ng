@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate full-stack software engineer and cyber security enthusiast.</h3>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
+
 <p align="center">
   <a href="https://dev.to/cham11ng" target="blank">
     <img align="center"
@@ -21,7 +22,9 @@
 </p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+
+### Languages and Tools
+
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -89,21 +92,22 @@
       alt="typescript" width="40" height="40" />
   </a>
 </p>
----
-
-<h3 align="left">Stats:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cham11ng&show_icons=true&locale=en&layout=compact" alt="cham11ng" /></p>
 
 ---
 
-<h3 align="left">Holopin Board:</h3>
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham11ng&hide=php,html,css,scss&show_icons=true&locale=en&layout=compact)
+
+---
+
+### Holopin Board
 
 [![@cham11ng's Holopin board](https://holopin.io/api/user/board?user=cham11ng)](https://holopin.io/@cham11ng)
 
 ---
 
-<h3 align="left">Credly Badges:</h3>
+### Credly Badges
 
 <!--START_SECTION:badges-->
 [![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/abe9c7c8-bd28-4377-8522-87b68344ba5a "ISC2 Candidate")
