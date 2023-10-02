@@ -24,5 +24,9 @@
 ---
 
 <!--START_SECTION:badges-->
+[![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/abe9c7c8-bd28-4377-8522-87b68344ba5a "ISC2 Candidate")
+[![Introduction to Packet Tracer](https://images.credly.com/size/80x80/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](http://www.credly.com/badges/40643888-3cc5-421d-8395-947d651d215f "Introduction to Packet Tracer")
+[![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/e801a6c7-8965-458d-8447-477056ea59d6 "Certified in Cybersecurity (CC)")
+[![OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://images.credly.com/size/80x80/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](http://www.credly.com/badges/cf60fc47-d5cf-4237-b496-7a3f21c571c9 "OPSWAT Introduction to Critical Infrastructure Protection (ICIP)")
 <!--END_SECTION:badges-->
 
