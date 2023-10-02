@@ -13,4 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cham11ng&show_icons=true&locale=en&layout=compact" alt="cham11ng" /></p>
 
-![Holopin](https://holopin.onrender.com/cham11ng?style=flat-square)
+[![@cham11ng's Holopin board](https://holopin.io/api/user/board?user=cham11ng)](https://holopin.io/@cham11ng)
+
