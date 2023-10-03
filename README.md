@@ -1,29 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate full-stack software engineer and cyber security enthusiast.</h3>
+### Hi 👋, I'm Sagar,
 
-### Connect with me
+I am passionate full-stack software engineer and cyber security enthusiast.
 
-<p align="center">
-  <a href="https://dev.to/cham11ng" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="cham11ng" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/cham11ng" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="cham11ng" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/cham11ng" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="cham11ng" height="30" width="40" />
-  </a>
-</p>
+[![Twitter: cham11ng](https://img.shields.io/twitter/follow/cham11ng?style=social)](https://twitter.com/cham11ng)
+[![Linkedin: cham11ng](https://img.shields.io/badge/-cham11ng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cham11ng/)](https://www.linkedin.com/in/cham11ng/)
+[![GitHub cham11ng](https://img.shields.io/github/followers/cham11ng?label=follow&style=social)](https://github.com/cham11ng)
 
----
-
-### Languages and Tools
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -93,21 +75,13 @@
   </a>
 </p>
 
----
-
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cham11ng&hide=php,html,css,scss&show_icons=true&locale=en&layout=compact)
-
----
-
-### Holopin Board
+#### Holopin Board
 
 [![@cham11ng's Holopin board](https://holopin.io/api/user/board?user=cham11ng)](https://holopin.io/@cham11ng)
 
 ---
 
-### Credly Badges
+#### Credly Badges
 
 <!--START_SECTION:badges-->
 [![ISC2 Candidate](https://images.credly.com/size/120x120/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/abe9c7c8-bd28-4377-8522-87b68344ba5a "ISC2 Candidate")
