@@ -65,10 +65,6 @@ I am passionate full-stack software engineer and cyber security enthusiast.
   </a>
 </p>
 
-### Holopin Board
-
-[![An image of @cham11ng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cham11ng)](https://holopin.io/@cham11ng)
-
 ---
 
 ### Credly Badges
