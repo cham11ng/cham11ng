@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sagar,
+## Hi 👋, I'm Sagar
 
 I am passionate full-stack software engineer and cyber security enthusiast.
 
