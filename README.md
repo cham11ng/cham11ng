@@ -75,6 +75,13 @@ I am passionate full-stack software engineer and cyber security enthusiast.
               width="40"
               height="40" />
           </a>
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+              alt="nextjs"
+              width="40"
+              height="40" />
+          </a>
           <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -337,12 +344,32 @@ I am passionate full-stack software engineer and cyber security enthusiast.
               width="40"
               height="40" />
           </a>
+          <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+              alt="rabbitmq"
+              width="40"
+              height="40" />
+          </a>
+          <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
+              alt="prometheus"
+              width="40"
+              height="40" />
+          </a>
+          <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
+              alt="grafana"
+              width="40"
+              height="40" />
+          </a>
         </div>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 ---
 
