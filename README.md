@@ -378,7 +378,6 @@ I am passionate full-stack software engineer and cyber security enthusiast.
 <!--START_SECTION:badges-->
 [![ISC2 Candidate](https://images.credly.com/size/100x100/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/abe9c7c8-bd28-4377-8522-87b68344ba5a "ISC2 Candidate")
 [![Introduction to Packet Tracer](https://images.credly.com/size/100x100/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](http://www.credly.com/badges/40643888-3cc5-421d-8395-947d651d215f "Introduction to Packet Tracer")
-[![Certified in Cybersecurity (CC)](https://images.credly.com/size/100x100/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/e801a6c7-8965-458d-8447-477056ea59d6 "Certified in Cybersecurity (CC)")
 [![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/100x100/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/3c89be10-ff93-4e71-b75c-2def97edee30 "Fortinet Certified Fundamentals Cybersecurity")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/100x100/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/fa3d32d1-ef4d-469b-b915-b1e12688a243 "Introduction to the Threat Landscape 1.0")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/100x100/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/276cc329-2607-4cf0-98cc-bf2f44919b0a "AWS Educate Introduction to Cloud 101")
